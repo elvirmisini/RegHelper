@@ -53,6 +53,7 @@ Lower cases, Upper cases, numbers so in a total length of 6 chars.
 ```javascript
 const isValid = isUrlRegEx('https://github.com/elvirmisini/RegHelper')
 ```
+Url
 ```javascript
 const isValid = isUsSSNRegEx('222-22-2222')
 ```
