@@ -117,5 +117,5 @@ If you find a bug or want to contribute to the development of RegHelper, please 
 ## Version
 Version 1.0.0, in the future will come with more features.
 
-## License
-RegHelper is licensed under the --- License. See the LICENSE file for more information.
+<!-- ## License
+RegHelper is licensed under the --- License. See the LICENSE file for more information. -->
