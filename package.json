@@ -1,6 +1,6 @@
 {
   "name": "reg-helper",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "It helps us to validate a parameter, while not writing regular expressions, but just calling some functions",
   "main": "index.js",
   "scripts": {
@@ -11,7 +11,7 @@
     "url": "git+https://github.com/elvirmisini/RegHelper.git"
   },
   "keywords": [
-    "Reg","RegHelper","RegEx","Regulat expressions"
+    "Reg","RegHelper","RegEx","Regular expressions"
   ],
   "author": "Elvir Misini",
   "license": "ISC",

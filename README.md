@@ -114,7 +114,7 @@ const isValid = RegHelper.isSubnetMaskRegEx('255.255.255.0')
 If you find a bug or want to contribute to the development of RegHelper, please submit a pull request on the GitHub repository.
 
 ## Version
-Version 1.0.1, in the future will come with more features.
+Version 1.0.3, in the future will come with more features.
 
 <!-- ## License
 RegHelper is licensed under the --- License. See the LICENSE file for more information. -->
