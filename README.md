@@ -110,6 +110,16 @@ SubnetMask
 const isValid = RegHelper.isSubnetMaskRegEx('255.255.255.0')
 ```
 
+Random password generator
+```javascript
+const isValid = RegHelper.randomPasswordGeneration('255.255.255.0')
+```
+
+Password validator, see if your password is strong, weak or moderate
+```javascript
+const isValid = RegHelper.validatePassword('PPpassword123.')
+```
+
 ## Contributing
 If you find a bug or want to contribute to the development of RegHelper, please submit a pull request on the GitHub repository.
 
